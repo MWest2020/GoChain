@@ -1,0 +1,7 @@
+{
+    "genesis_time": "2022-03-21T00:00:00.000000000Z",
+    "chain_id": "GoChain",
+    "balances": {
+        "mwest2020": 1000000
+    } 
+}
